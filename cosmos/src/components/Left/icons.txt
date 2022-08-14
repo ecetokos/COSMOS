@@ -1,0 +1,27 @@
+ANA
+https://icons.getbootstrap.com/icons/house-door-fill/
+ÖZET
+https://icons.getbootstrap.com/icons/columns-gap/
+KAYIT
+https://icons.getbootstrap.com/icons/list-check/
+ANALİZ
+https://icons.getbootstrap.com/icons/bar-chart-fill/
+
+-----------------
+
+DMI
+https://icons.getbootstrap.com/icons/battery/
+DTI
+https://icons.getbootstrap.com/icons/battery-full/
+Gruplar
+https://icons.getbootstrap.com/icons/collection/
+Radar
+https://icons.getbootstrap.com/icons/car-front/
+Trafik radarı
+https://icons.getbootstrap.com/icons/car-front-fill/
+Meteroloji
+https://icons.getbootstrap.com/icons/thermometer-sun/
+Kütüphane
+https://icons.getbootstrap.com/icons/journals/
+Notlar
+https://icons.getbootstrap.com/icons/flag-fill/
