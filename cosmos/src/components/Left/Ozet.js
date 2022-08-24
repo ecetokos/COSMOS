@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Ozet = () => {
   return (
-    <div>Ozet</div>
-  )
-}
+    <div>
+      <h5 class="ozet">Trafik</h5>
+    </div>
+  );
+};
 
-export default Ozet
+export default Ozet;
